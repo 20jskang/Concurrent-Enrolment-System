@@ -1,0 +1,22 @@
+[
+  {
+    "subjectCode": "COMP90015",
+    "capacity": 3,
+    "enrolledStudentIds": ["1234567", "7654321"]
+  },
+  {
+    "subjectCode": "COMP90038",
+    "capacity": 3,
+    "enrolledStudentIds": ["1111111", "2222222"]
+  },
+  {
+    "subjectCode": "COMP90048",
+    "capacity": 1,
+    "enrolledStudentIds": []
+  },
+  {
+    "subjectCode": "COMP90024",
+    "capacity": 2,
+    "enrolledStudentIds": ["3333333"]
+  }
+]

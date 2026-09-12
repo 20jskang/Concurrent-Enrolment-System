@@ -1,0 +1,10 @@
+# Build output
+*.jar
+*.class
+
+# Server-managed persistence files (runtime state, not source)
+*.state.json
+*.state.json.tmp
+
+# Local test harness (kept out of the repo deliberately)
+.idea/
