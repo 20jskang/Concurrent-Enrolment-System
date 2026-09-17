@@ -1,5 +1,7 @@
 # COMP90015 Assignment 1: Provided Scaffolding
 
+Grade: 15/15 (H1)
+
 This is the starter code referenced in the "Provided Scaffolding" section of the
 assignment specification. Read this whole file before you start: it explains
 exactly what's done for you and what isn't.
